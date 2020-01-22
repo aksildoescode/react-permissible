@@ -28,10 +28,10 @@
     react-helmet "^5.2.0"
     react-live "^1.10.1"
 
-"@brainhubeu/react-permissible@^1.6.30":
-  version "1.6.30"
-  resolved "https://registry.yarnpkg.com/@brainhubeu/react-permissible/-/react-permissible-1.6.30.tgz#9b20627a0668eb8bfc6f017a5f26a775875afed4"
-  integrity sha512-ps/PNNpzbdWKLnJVZY4xW2id7nqaI9MfbEDqhAlcFXoXFFVXpL8uMJ/d6Fkys2b5zF5EhBrfpZ3gxxcqxybRUQ==
+"@brainhubeu/react-permissible@^1.6.31":
+  version "1.6.31"
+  resolved "https://registry.yarnpkg.com/@brainhubeu/react-permissible/-/react-permissible-1.6.31.tgz#49ae55e6be02f14a1d07823114c1821617d35ac4"
+  integrity sha512-/wOjEcYDxHC6PKZs+FkZz9eMYzAyWcmsHn2jZjv8LPcBtrPy3EqtQX/JN7C1lnOSP7Bp9m6Ho+lIdb2+1CJ+1A==
   dependencies:
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
@@ -3291,10 +3291,10 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.2, escape-string-regexp@^1
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-brainhub@^1.11.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-brainhub/-/eslint-config-brainhub-1.11.1.tgz#f6f6ebf0f984128f4a5f0d7c5a85dd5c96c9215a"
-  integrity sha512-yoO1E/Wvxp9VUX5SmIcDZYKTMqNnD5qbjSdwyrHr0s8g3aakya2SWA95OdlDN4+ir9pFfBKeuOkojsjqQ+2MDA==
+eslint-config-brainhub@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-brainhub/-/eslint-config-brainhub-1.12.0.tgz#40ec8809f1b017f51904b5a4197aebf4bb3872aa"
+  integrity sha512-cM5WlzK4bXVw/+iDo2aZTxjuypBtU/6Kol/xCrLHikT8V5/MXvQCfbb8I0xBKJ953UqWfFLC3VMVXZ1sC7a6bA==
   dependencies:
     eslint-plugin-babel "^5.3.0"
     eslint-plugin-import "^2.16.0"
